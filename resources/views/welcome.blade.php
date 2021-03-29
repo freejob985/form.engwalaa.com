@@ -2,7 +2,7 @@
 <html lang="en">
 @include('head')
 <body>
-
+    @dd("Catch errors for script and full tracking ( 1)");
     <h1 class="header-w3ls">
         Tamkeen
     </h1>
@@ -18,7 +18,7 @@
                     <p>محمول/ واتس</p>
 
                     <input type="text" placeholder="" required=""  name="a2">
-                </div>        @dd("Catch errors for script and full tracking ( 1)");
+                </div>       
 
             </div>
             <div class="form-group">

@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/engwalaa/form.engwalaa.com/
-    - /*
+    - /home/engwalaa/form.engwalaa.com/* $DEPLOYPATH

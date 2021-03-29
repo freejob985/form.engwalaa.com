@@ -66,7 +66,7 @@
                     <h2>كيف ستقوم ببناء (علاقة ودية-  علاقات شخصيّة مع عملاءك.
                     – هل ستستخدم وسائل التواصل الاجتماعي - أم ستستخدم التعامل الألكتروني فقط.
                     </h2>
-                    <select class="form-control" id="sel1" name="a7">
+                    <select class="form-control" id="sel1" name="a8">
                         <option>علاقة ودية </option>
                         <option>علاقات شخصيّة مع عملاءك </option>
                         <option> هل ستستخدم وسائل التواصل الاجتماعي </option>
@@ -82,6 +82,11 @@
                     هل من المتوقع تحقيق أرباح من المنتج/ الخدمة)
                     هل مصادر الأرباح متعددة مثل (بيع المنتج - البيع بالعمولة- تأجير منتجات (تأجير أي الالات)
                     </h2>
+                    <select class="form-control" id="sel1" name="a9">
+                        <option>بيع المنتج</option>
+                        <option>البيع بالعمولة</option>
+                        <option>تأجير منتجات (تأجير أي الالات) </option>
+                      </select>
                     <textarea name="a9" placeholder="" required=""></textarea>
                 </div>
                 <div class="form-mid-w3ls">

@@ -66,6 +66,12 @@
                     <h2>كيف ستقوم ببناء (علاقة ودية-  علاقات شخصيّة مع عملاءك.
                     – هل ستستخدم وسائل التواصل الاجتماعي - أم ستستخدم التعامل الألكتروني فقط.
                     </h2>
+                    <select class="form-control" id="sel1" name="a7">
+                        <option>علاقة ودية </option>
+                        <option>علاقات شخصيّة مع عملاءك </option>
+                        <option> هل ستستخدم وسائل التواصل الاجتماعي </option>
+                        <option>أم ستستخدم التعامل الألكتروني فقط</option>
+                      </select>
                     <textarea name="a8" placeholder="" required=""></textarea>
                 </div>
             </div>

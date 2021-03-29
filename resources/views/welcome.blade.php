@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 @include('head')
-
+@dd("Catch errors for script and full tracking ( 1)");
 <body>
     <h1 class="header-w3ls">
         Tamkeen

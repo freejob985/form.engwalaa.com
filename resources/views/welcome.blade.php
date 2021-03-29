@@ -5,7 +5,6 @@
 
     <h1 class="header-w3ls">
         Tamkeen
-        @dd("Catch errors for script and full tracking ( 1)");
 
     </h1>
     <div class="main-bothside">
@@ -20,7 +19,8 @@
                     <p>محمول/ واتس</p>
 
                     <input type="text" placeholder="" required=""  name="a2">
-                </div>
+                </div>        @dd("Catch errors for script and full tracking ( 1)");
+
             </div>
             <div class="form-group">
                 <div class="form-mid-w3ls">

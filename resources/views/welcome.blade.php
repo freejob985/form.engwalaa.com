@@ -72,7 +72,6 @@
                         <option> هل ستستخدم وسائل التواصل الاجتماعي </option>
                         <option>أم ستستخدم التعامل الألكتروني فقط</option>
                       </select>
-                    <textarea name="a8" placeholder="" required=""></textarea>
                 </div>
             </div>
 

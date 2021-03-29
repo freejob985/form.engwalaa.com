@@ -56,7 +56,7 @@
                    </h2>
                    <select class="form-control" id="sel1" name="a7">
                     <option>محلات التجزئة </option>
-                    <option>متجر الكتروني- </option>
+                    <option>متجر الكتروني </option>
                     <option>منصة الكترونية</option>
                  
                   </select>

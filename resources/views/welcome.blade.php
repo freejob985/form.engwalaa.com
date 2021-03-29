@@ -54,13 +54,12 @@
                     <h2>Distribution Channels
                     كيف سيصل المنتج إلى العملاء – هل ستقوم بانشاء (محلات التجزئة – متجر الكتروني- منصة الكترونية)
                    </h2>
-                   <select class="form-control" id="sel1">
+                   <select class="form-control" id="sel1" name="a7">
                     <option>محلات التجزئة </option>
                     <option>متجر الكتروني- </option>
                     <option>منصة الكترونية</option>
                  
                   </select>
-                    <textarea name="a7" placeholder=" " required=""></textarea>
                 </div>
                 <div class="form-mid-w3ls">
                     <p>العلاقات مع العملاء</p>

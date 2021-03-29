@@ -87,7 +87,6 @@
                         <option>البيع بالعمولة</option>
                         <option>تأجير منتجات (تأجير أي الالات) </option>
                       </select>
-                    <textarea name="a9" placeholder="" required=""></textarea>
                 </div>
                 <div class="form-mid-w3ls">
                     <p>الأفعال الرئيسية </p>
@@ -95,6 +94,14 @@
                     لتقديم القيمة التى وعدنا بها العملاء تصميم تطبيق الكتروني- تعيين كوادر إدارية للدعم الفني- صناعة المحتوى – توفير خطة التسويق – تأسيس مقر إداري حتى نصل الى التدفقات النقدية؟
                    </h2>
                     <textarea name="a10" placeholder=" " required=""></textarea>
+
+                    <select class="form-control" id="sel1">
+                        <option>تصميم تطبيق الكتروني</option>
+                        <option>تعيين كوادر إدارية للدعم الفني</option>
+                        <option>صناعة المحتوى </option>
+                        <option>توفير خطة التسويق </option>
+                        <option>تأسيس مقر إداري حتى نصل الى التدفقات النقدية</option>
+                      </select>
                 </div>
             </div>
 

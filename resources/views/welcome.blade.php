@@ -58,7 +58,6 @@
                     <option>محلات التجزئة </option>
                     <option>متجر الكتروني </option>
                     <option>منصة الكترونية</option>
-                 
                   </select>
                 </div>
                 <div class="form-mid-w3ls">
